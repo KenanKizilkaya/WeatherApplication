@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable_dayimage5.png.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/drawable/dayimage5.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable-hdpi_nightimage4.png.flat",
+        "source": "kth.kenanmark.weatherapp-debug-6:/drawable-hdpi/nightimage4.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable_dayimage2.png.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/drawable/dayimage2.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable-hdpi_nightimage2.png.flat",
+        "source": "kth.kenanmark.weatherapp-debug-6:/drawable-hdpi/nightimage2.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable-hdpi_nightimage1.png.flat",
+        "source": "kth.kenanmark.weatherapp-debug-6:/drawable-hdpi/nightimage1.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable_dayimage4.png.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/drawable/dayimage4.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable_dayimage6.png.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/drawable/dayimage6.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable-hdpi_nightimage5.png.flat",
+        "source": "kth.kenanmark.weatherapp-debug-6:/drawable-hdpi/nightimage5.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable_default_image.png.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/drawable/default_image.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable_dayimage1.png.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/drawable/dayimage1.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable-hdpi_nightimage6.png.flat",
+        "source": "kth.kenanmark.weatherapp-debug-6:/drawable-hdpi/nightimage6.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable-hdpi_nightimage3.png.flat",
+        "source": "kth.kenanmark.weatherapp-debug-6:/drawable-hdpi/nightimage3.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/drawable_dayimage3.png.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/drawable/dayimage3.png"
+    },
+    {
+        "merged": "kth.kenanmark.weatherapp-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "kth.kenanmark.weatherapp-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
